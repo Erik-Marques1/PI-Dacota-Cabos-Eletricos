@@ -11,6 +11,10 @@
 - Erik Fernandes Marques — RA 26002150
 - Eduardo do Amaral Geraldo Pan — RA 26002151
 
+## link do Video
+
+https://youtu.be/mgbvg7yfa4A
+
 ## Sobre o projeto
 
 O projeto tem como objetivo desenvolver um banco de dados integrado ao Power BI para auxiliar na análise de vendas, produtos e entregas da Dacota Cabos Elétricos.
